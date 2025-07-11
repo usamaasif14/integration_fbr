@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_integration_fbr_model_user,integration.fbr.model user,model_fbr_integration_model,base.group_user,1,0,0,0
+access_integration_fbr_model_admin,integration.fbr.model admin,model_fbr_integration_model,base.group_system,1,1,1,1
+access_integration_fbr_line_user,integration.fbr.line user,model_fbr_integration_line,base.group_user,1,0,0,0
+access_integration_fbr_line_admin,integration.fbr.line admin,model_fbr_integration_line,base.group_system,1,1,1,1
