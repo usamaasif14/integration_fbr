@@ -17,6 +17,6 @@ Installation
 
 License
 -------
-LGPL-3
+OPL-1
 
 Author: Usama Asif
